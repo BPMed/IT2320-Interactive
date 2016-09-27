@@ -1,0 +1,11 @@
+A. Visual Studios
+	1. Open VS => Open Project by clicking the fork in the team explorer.
+	2. Double click the project you want to work on.
+	3. File => New => File => Choose the file you want to develop.
+	4. Save => Click Changes => Write brief message.
+	5. Commit => Sync => Then Sync again.
+(Now it will show up Remotely and Locally)
+
+B. GitHub
+	1. Go into your Repository you are working in.
+	2. Click Upload Files => Drag Files into Window.
